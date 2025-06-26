@@ -9,3 +9,7 @@ https://forms.office.com/r/hYah6C60hE
 ## PRACTICE TEST 3 (Master Data and Ref Data)
 
 https://forms.office.com/r/4ATB4g2fts
+
+## PRACTICE TEST 4 (Data Modelling)
+
+https://forms.office.com/r/U2NZ325LM3
