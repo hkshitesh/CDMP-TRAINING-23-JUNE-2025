@@ -18,3 +18,8 @@ https://forms.office.com/r/U2NZ325LM3
 
 https://forms.office.com/r/hbCNJUBUey
 
+
+## Attendnace QR Code
+
+![image](https://github.com/user-attachments/assets/7c007274-f43e-410d-b2b8-206b8f1015a9)
+
